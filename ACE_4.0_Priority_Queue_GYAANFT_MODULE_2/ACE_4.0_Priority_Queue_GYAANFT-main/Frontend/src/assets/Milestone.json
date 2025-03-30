@@ -1,0 +1,123 @@
+[
+  {
+    "milestone": "Learn Programming Basics",
+    "description": "Start with fundamental programming concepts.",
+    "details": [
+      "Choose a language: Python, JavaScript, Java, C++",
+      "Learn variables, loops, functions, and OOP",
+      "Practice basic problems on platforms like LeetCode, CodeChef"
+    ],
+    "resources": ["CS50 Harvard", "Python Crash Course", "freeCodeCamp"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  },
+  {
+    "milestone": "Master Data Structures & Algorithms",
+    "description": "Understand how data structures and algorithms work.",
+    "details": [
+      "Study Arrays, Linked Lists, Stacks, Queues, Trees, Graphs",
+      "Learn sorting, searching, dynamic programming",
+      "Solve at least 100 problems on LeetCode"
+    ],
+    "resources": ["NeetCode", "GeeksforGeeks", "Cracking the Coding Interview"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  },
+  {
+    "milestone": "Learn Version Control",
+    "description": "Understand how to manage code versions and collaborate with Git.",
+    "details": [
+      "Learn Git basics: commit, push, pull, branches",
+      "Use GitHub for project management",
+      "Contribute to open-source projects"
+    ],
+    "resources": ["Pro Git Book", "GitHub Docs", "Try Git by Atlassian"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  },
+  {
+    "milestone": "Understand System Design Basics",
+    "description": "Learn how to design scalable applications.",
+    "details": [
+      "Understand databases (SQL vs NoSQL)",
+      "Learn about caching, load balancing, and microservices",
+      "Read system design case studies"
+    ],
+    "resources": ["System Design Primer", "Grokking the System Design Interview"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  },
+  {
+    "milestone": "Build Real-World Projects",
+    "description": "Apply your knowledge by building software projects.",
+    "details": [
+      "Create a portfolio website",
+      "Develop a CRUD-based application",
+      "Contribute to open-source repositories"
+    ],
+    "resources": ["Frontend Mentor", "Dev.to", "Hackathons"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  },
+  {
+    "milestone": "Explore Cloud Computing",
+    "description": "Understand cloud platforms and services.",
+    "details": [
+      "Learn about AWS, Azure, and Google Cloud",
+      "Deploy applications on cloud platforms",
+      "Understand CI/CD pipelines and DevOps"
+    ],
+    "resources": ["AWS Free Tier", "Google Cloud Essentials", "The Phoenix Project"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  },
+  {
+    "milestone": "Cybersecurity Fundamentals",
+    "description": "Learn how to secure applications and networks.",
+    "details": [
+      "Understand encryption and authentication",
+      "Learn OWASP Top 10 vulnerabilities",
+      "Practice ethical hacking with Kali Linux"
+    ],
+    "resources": ["Cybrary", "Hack The Box", "OWASP"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  },
+  {
+    "milestone": "Learn Artificial Intelligence & Machine Learning",
+    "description": "Get started with AI/ML concepts.",
+    "details": [
+      "Understand supervised and unsupervised learning",
+      "Work with TensorFlow and PyTorch",
+      "Build ML models and train datasets"
+    ],
+    "resources": ["Andrew Ng’s ML Course", "Fast.ai", "Hugging Face"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  },
+  {
+    "milestone": "Master Competitive Programming",
+    "description": "Sharpen problem-solving skills for coding interviews.",
+    "details": [
+      "Solve advanced algorithmic problems",
+      "Participate in coding contests (Codeforces, AtCoder)",
+      "Optimize time and space complexity"
+    ],
+    "resources": ["CP Handbook", "Codeforces", "USACO Guide"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  },
+  {
+    "milestone": "Prepare for Technical Interviews",
+    "description": "Ace coding interviews at top tech companies.",
+    "details": [
+      "Practice system design interviews",
+      "Mock interviews on Pramp and Interviewing.io",
+      "Master behavioral questions using STAR method"
+    ],
+    "resources": ["AlgoExpert", "Interview Cake", "HiredInTech"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  },
+  {
+    "milestone": "Contribute to Open Source",
+    "description": "Gain real-world experience by collaborating on open-source projects.",
+    "details": [
+      "Find beginner-friendly issues on GitHub",
+      "Join Hacktoberfest",
+      "Network with open-source communities"
+    ],
+    "resources": ["First Timers Only", "Mozilla Open Source", "GitHub Explore"],
+    "link": "https://www.youtube.com/watch?v=X8ipUgXH6jw"
+  }
+]

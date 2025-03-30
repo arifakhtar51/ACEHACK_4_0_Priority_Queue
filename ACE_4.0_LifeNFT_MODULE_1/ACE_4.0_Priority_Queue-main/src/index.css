@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0f172a;
+  color: #e2e8f0;
+}
+
+.text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-400;
+}
+
+.nav-item {
+  @apply px-3 py-2 rounded-md text-sm text-slate-300 hover:bg-slate-700 hover:text-white transition-colors;
+}
+
+.nav-item-active {
+  @apply px-3 py-2 rounded-md text-sm text-white bg-slate-700;
+}
+
+@layer base {
+  body {
+    @apply bg-slate-900 text-white font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold;
+  }
+  
+  h1 {
+    @apply text-3xl md:text-4xl;
+  }
+  
+  h2 {
+    @apply text-2xl md:text-3xl;
+  }
+  
+  h3 {
+    @apply text-xl md:text-2xl;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-4 py-2 bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 rounded-lg text-white shadow-lg hover:shadow-purple-500/20 transition-all;
+  }
+  
+  .card {
+    @apply bg-slate-800 border border-slate-700 rounded-xl overflow-hidden shadow-lg hover:shadow-purple-500/10 hover:border-purple-500/40 transition-all;
+  }
+  
+  .input-primary {
+    @apply bg-slate-800 border border-slate-700 rounded-lg px-4 py-2 text-white focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent;
+  }
+  
+  .nav-pill {
+    @apply px-3 py-2 rounded-lg text-slate-300 hover:text-white hover:bg-slate-800 transition-all;
+  }
+  
+  .nav-pill.active {
+    @apply bg-slate-800 text-white;
+  }
+}
