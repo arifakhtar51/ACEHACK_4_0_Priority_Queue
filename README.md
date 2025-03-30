@@ -37,4 +37,8 @@ Each module has its own setup instructions in their respective directories. Plea
 - FastAPI
 - MongoDB
 - Blockchain (Hive)
-- Machine Learning 
+- Machine Learning
+
+- contract address	0x4b0800266eee8ddd04fb0d0ad5e8dc72b7925b8d
+- ERC721 for nft creation
+- Deployed on Educhain Blockchain 
