@@ -33,6 +33,10 @@
 - Tailwind CSS
 - Auth0 for authentication
 - Axios for API calls
+- Educhain (layer 3) Blockchain 
+- contract address 0x4b0800266eee8ddd04fb0d0ad5e8dc72b7925b8d
+ERC721 for nft creation
+Deployed on Educhain Blockchain
 - Lucide React for icons
 
 ### Backend
