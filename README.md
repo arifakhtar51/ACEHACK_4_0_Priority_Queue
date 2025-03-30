@@ -33,6 +33,7 @@ Each module has its own setup instructions in their respective directories. Plea
 ## Technologies Used
 - React.js
 - Node.js
+- EduChain Blockchain layer 3
 - FastAPI
 - MongoDB
 - Blockchain (Hive)
