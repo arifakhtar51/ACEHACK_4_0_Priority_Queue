@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "text": "Complete React project",
+      "status": false
+    },
+    {
+      "id": 2,
+      "text": "Review pull requests",
+      "status": true
+    },
+    {
+      "id": 3,
+      "text": "Fix UI bugs",
+      "status": false
+    }
+  ]
+  
