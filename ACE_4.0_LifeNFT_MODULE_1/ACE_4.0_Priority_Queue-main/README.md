@@ -44,18 +44,35 @@ This project was developed as part of the **Hive Blockchain Hackathon**, demonst
 
 ## Revenue Model  
 
-LifeNFT adopts a sustainable revenue model while ensuring a decentralized and fair reward system for blood donors. Our revenue streams include:  
+- Government Collaborations & Service Fees
 
-- **Transaction Fees** – A small service fee is applied to transactions involving NFT rewards, verifications, and donor badge upgrades.  
-- **Premium Memberships** – Hospitals and blood banks can subscribe to premium plans for priority access to verified donor data and advanced analytics.  
-- **API Monetization** – Third-party applications, insurance providers, and healthcare platforms can integrate our open API for donor verification and blood donation records via a paid subscription model.  
-- **Sponsorships & Partnerships** – Collaborating with government health programs, NGOs, and private organizations to promote blood donation, where they contribute funds for platform development and maintenance.  
-- **NFT Marketplace** – A decentralized marketplace where donors can trade exclusive achievement-based NFTs, allowing organizations to sponsor special NFTs with unique perks.  
-- **AI-Powered Insights & Reports** – Offering AI-generated reports and donor behavior analytics to healthcare organizations for a subscription fee.  
-- **Tokenization & Staking** – Potential future implementation of a LifeNFT token, enabling staking mechanisms for users, providing incentives while generating platform revenue.  
+   - Partnering with government bodies and hospitals to implement blockchain-based donation tracking.
 
-This model ensures financial sustainability while keeping the platform beneficial for donors, hospitals, and healthcare organizations.
+   - Charging a small fee per NFT-based donor certificate issuance.
 
+- Institutional Partnerships & API Access
+
+   - Offering paid API access for universities, online course providers, and NGOs.
+
+   - Selling white-label blockchain solutions for institutions needing verifiable credentials.
+
+- NFT-Based Course Redemption Fees
+
+   - Charging a small transaction fee when users redeem their NFTs for educational courses.
+
+   - Offering premium courses where additional NFTs or payments may be required.
+
+- Corporate Sponsorship & CSR Funding
+
+   - Partnering with companies for CSR-driven blood donation and education programs.
+
+   - Charging sponsorship fees to brands supporting social-impact initiatives.
+
+- Future NFT Marketplace
+
+   - Creating a marketplace for NFT-based learning achievements where users can trade, showcase, or upgrade their educational credentials.
+
+   - Monetizing through transaction fees and premium NFT issuance.
 
 ## Getting Started
 
@@ -114,7 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-- Email: shadowspark243@gmail.com
+- Email: arifakhtar902@gmail.com
 
 ## Acknowledgments
 
