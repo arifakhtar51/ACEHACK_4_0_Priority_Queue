@@ -14,15 +14,15 @@ BloodDonorNFT fully utilizes the **Hive blockchain** for:
 **Hive Transaction Broadcasting** – Trustless and transparent recording of donation events on-chain
 
 ## Screenshots
-![Screenshot 1](/photos/img1.png)
+![Screenshot 1](photos/img1.png)
 
 =================================================================================
 
-![Screenshot 2](/photos/img2.png)
+![Screenshot 2](photos/img2.png)
 
 =================================================================================
 
-![Screenshot 3](/photos/img3.png)
+![Screenshot 3](photos/img3.png)
 
 ## Features
 - **Multi-Role System** – Separate dashboards for **government agencies, hospitals, and blood donors**
